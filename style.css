@@ -1,0 +1,30 @@
+/* Estilos para la barra superior */
+.top-bar {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Estilos para el contenido principal */
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Estilos para los títulos */
+h1 {
+  color: #0074d9;
+}
+
+/* Estilos para los párrafos */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Segunda parte del mensaje: N0-3s */
+
+/*Me pregunto como sabe la fecha la pagina?*/

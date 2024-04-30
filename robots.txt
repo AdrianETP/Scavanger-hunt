@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Disallow: /secrets/
+Allow: /public/
+
+# ultima parte del mensaje Pr0t3g3t3}
